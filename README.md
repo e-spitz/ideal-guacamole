@@ -6,3 +6,5 @@
 
 *We aren't entirely sure what we should put into this file.*
 # ideal-guacamole
+
+*Lime juice is an essential part of an ideal guacamole!*
